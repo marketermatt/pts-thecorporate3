@@ -1,0 +1,3 @@
+/* CSS Document */
+
+#menu ul ul a {width: 190px;} /* because ie cannot handle the space on flyout*/

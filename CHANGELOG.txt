@@ -1,0 +1,33 @@
+Keep a change log to describe all the changes made to program source files. The purpose of this is so that people investigating bugs in the future will know about the changes that might have introduced the bug. Often a new bug can be found by looking at what was recently changed. More importantly, change logs can help you eliminate conceptual inconsistencies between different parts of a program, by giving you a history of how the conflicting concepts arose and who they came from. 
+
+
+2014-10-12  Pixel Theme Studio  <studio@pixelthemestudio.ca>
+
+	* Made general changes to support WP4.
+	* Removed all table tags in page layout and used div instead.
+	* Added support for wp_pagenavi and Yoast Bredcrumbs.
+	* Added text domains to site.
+
+2010-11-18  Pixel Theme Studio  <studio@pixelthemestudio.ca>
+     
+	* Removed the Language folder as it contained no language support - left for a future version.
+	
+2010-09-01  Pixel Theme Studio  <studio@pixelthemestudio.ca>
+     
+	* Commented out the footer menu to be default as non-active
+
+2010-08-01  Pixel Theme Studio  <studio@pixelthemestudio.ca>
+     
+	* Corrected a graphics problem and optimized the png images
+	* Added a new theme setting to disable the WordPress Header feature in the Showcase 1 Group
+	* Created separate layout templates for pages instead of just one that does all
+
+2010-08-01  Pixel Theme Studio  <studio@pixelthemestudio.ca>
+     
+	* Changed the logo height to min-height so it expands with logo heights
+	* Added a new widget position for the left side of the Showcase 1 group if not using the Header image function
+	* Added an ie.css file for the submenus due to Internet explorer not capable of handling this correctly
+
+2010-07-15  Pixel Theme Studio  <studio@pixelthemestudio.ca>
+     
+	* New Theme: Designed and developed theme

@@ -1,0 +1,1096 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: The Corporate\n"
+"POT-Creation-Date: 2014-10-16 20:51+0100\n"
+"PO-Revision-Date: 2014-10-16 20:51+0100\n"
+"Last-Translator: \n"
+"Language-Team: pixelthemestudio <info@pixelthemestudio.ca>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:25 search.php:30 single.php:40
+msgid "Posted"
+msgstr ""
+
+#: index.php:28 search.php:32 single.php:43
+msgid "in"
+msgstr ""
+
+#: index.php:30 search.php:34 single.php:45
+msgid "with"
+msgstr ""
+
+#: index.php:52
+msgid "Not Found"
+msgstr ""
+
+#: index.php:53
+msgid "Sorry, but you are looking for something that is not here."
+msgstr ""
+
+#: index.php:71 single.php:86
+msgid "Welcome To The Corporate 3"
+msgstr ""
+
+#: index.php:72 single.php:87
+msgid ""
+"Welcome to the Corporate 3 Theme for WordPress which marks a new phase in "
+"theme development for me. Corporate 3 moves into a new phase of design and "
+"development with cleaner and more professional looking concepts for power "
+"bloggers and serious businesses wanting to stand out with the popular "
+"WordPress blogging platform and is built for WP 4.0+."
+msgstr ""
+
+#: page-right-column.php:23 page-left-column.php:28
+#: page-left-inset-columns.php:27 page-left-right-columns.php:28
+#: page-inset-right-column.php:22
+msgid "Pages:"
+msgstr ""
+
+#: page-right-column.php:35 search.php:15 page-left-column.php:15
+#: page-left-inset-columns.php:15 page-left-right-columns.php:15
+#: page-left-right-columns.php:38
+msgid "Add a widget in this sidebar."
+msgstr ""
+
+#: functions.php:66
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:67
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:73 functions.php:235 lib/includes/showcase1.php:24
+#: lib/includes/showcase1.php:26 lib/includes/showcase1.php:28
+msgid "Continue Reading..."
+msgstr ""
+
+#: functions.php:108
+#, php-format
+msgid "%s <span class=\"says\">Comments:</span>"
+msgstr ""
+
+#: functions.php:111
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:118
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:118 functions.php:135
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:135
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:168
+msgid ""
+"This is an alternative to the default text widget and lets you use a title "
+"for the backend here but not show a title on the frontend. Easy to add an "
+"image for areas that you do not want a title showing."
+msgstr ""
+
+#: functions.php:172
+msgid "Image and Text"
+msgstr ""
+
+#: functions.php:275 functions.php:387
+msgid "Title for the admin side only"
+msgstr ""
+
+#: functions.php:279 functions.php:391
+msgid "Title for the front of your site - leave blank for no title"
+msgstr ""
+
+#: functions.php:283
+msgid "Full path to image"
+msgstr ""
+
+#: functions.php:287
+msgid "Full URL to link image or text to:"
+msgstr ""
+
+#: functions.php:291
+msgid "ALT text for the image):"
+msgstr ""
+
+#: functions.php:295
+msgid "ID of Page or post you would like the excerpt from:"
+msgstr ""
+
+#: functions.php:299
+msgid ""
+"If not using an excerpt, then enter in text you would like to display. HTML "
+"is allowed."
+msgstr ""
+
+#: functions.php:303 functions.php:399
+msgid "Automatically add paragraphs."
+msgstr ""
+
+#: functions.php:318
+msgid ""
+"This is an alternative to the default text widget that allows no titles to "
+"show on the frontend."
+msgstr ""
+
+#: functions.php:322
+msgid "Custom Text Without Title"
+msgstr ""
+
+#: functions.php:395
+msgid "HTML is allowed here but be gentle."
+msgstr ""
+
+#: search.php:21
+msgid "Search Results"
+msgstr ""
+
+#: search.php:30
+msgid "by"
+msgstr ""
+
+#: search.php:41
+msgid "Continue..."
+msgstr ""
+
+#: search.php:46
+msgid "Older Entries"
+msgstr ""
+
+#: search.php:47
+msgid "Newer Entries"
+msgstr ""
+
+#: search.php:58
+msgid "No posts found. Try a different search?thecorporate"
+msgstr ""
+
+#: search.php:59
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: archive.php:23
+msgid "Archive for the"
+msgstr ""
+
+#: archive.php:23
+msgid "Category"
+msgstr ""
+
+#: archive.php:26
+msgid "Posts Tagged"
+msgstr ""
+
+#: archive.php:29 archive.php:32 archive.php:35
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:38
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:41
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:81
+#, php-format
+msgid "Sorry, but there are no posts in the %s category yet."
+msgstr ""
+
+#: archive.php:85
+msgid "Sorry, but there are no posts with this date."
+msgstr ""
+
+#: archive.php:90
+#, php-format
+msgid "Sorry, but there are no posts by %s yet."
+msgstr ""
+
+#: archive.php:94
+msgid "No posts found."
+msgstr ""
+
+#: 404.php:16
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: 404.php:17
+#, php-format
+msgid ""
+"If you still run into any issues, you can visit <a href=\"%1$s\">Pixel Theme "
+"Studio</a> to let us know. The goal is to provide quality based WordPress "
+"Themes whether Free or Commercial and want to make sure everything is "
+"working 100% so we can offer the <a href=\"%2$s\">best WordPress Themes</a>!"
+msgstr ""
+
+#: footer.php:18
+msgid "Designed by"
+msgstr ""
+
+#: page-left-inset-columns.php:39
+msgid "Please setup a widget in this sidebar"
+msgstr ""
+
+#: comments.php:18
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:35
+#, php-format
+msgid "One Response to %2$s"
+msgstr ""
+
+#: comments.php:41 comments.php:60
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:42 comments.php:61
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:72
+msgid "Comments are closed."
+msgstr ""
+
+#: single.php:53
+msgid "Pages"
+msgstr ""
+
+#: single.php:57
+msgid "Tags"
+msgstr ""
+
+#: single.php:60
+msgid "Categories:"
+msgstr ""
+
+#: single.php:64
+msgid "Trackback URL for this post:"
+msgstr ""
+
+#: single.php:73
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: lib/functions/widgets.php:161
+msgid "Use this for a footer menu or other content"
+msgstr ""
+
+#: lib/functions/contact_form.php:16
+msgid "Thanks!"
+msgstr ""
+
+#: lib/functions/contact_form.php:16
+msgid "Your email was successfully sent."
+msgstr ""
+
+#: lib/functions/contact_form.php:22
+msgid "There was an error submitting the form."
+msgstr ""
+
+#: lib/functions/contact_form.php:27
+msgid "Name"
+msgstr ""
+
+#: lib/functions/contact_form.php:41
+msgid "Email"
+msgstr ""
+
+#: lib/functions/contact_form.php:55
+msgid "Comments"
+msgstr ""
+
+#: lib/functions/contact_form.php:71
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr ""
+
+#: lib/functions/prerequisites.php:24 lib/functions/prerequisites.php:179
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/functions/prerequisites.php:25 lib/functions/prerequisites.php:180
+msgid "Install Plugins"
+msgstr ""
+
+#: lib/functions/prerequisites.php:26 lib/functions/prerequisites.php:181
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: lib/functions/prerequisites.php:27
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: lib/functions/prerequisites.php:38 lib/functions/prerequisites.php:193
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/functions/prerequisites.php:39 lib/functions/prerequisites.php:195
+#: lib/functions/prerequisites.php:1959
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/functions/prerequisites.php:40
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: lib/functions/prerequisites.php:182
+msgid "Something went wrong."
+msgstr ""
+
+#: lib/functions/prerequisites.php:194
+msgid "Return to the dashboard"
+msgstr ""
+
+#: lib/functions/prerequisites.php:196 lib/functions/prerequisites.php:1650
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: lib/functions/prerequisites.php:197
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/functions/prerequisites.php:198
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/functions/prerequisites.php:550 lib/functions/prerequisites.php:2176
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/functions/prerequisites.php:1185
+msgid "Private Repository"
+msgstr ""
+
+#: lib/functions/prerequisites.php:1188
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/functions/prerequisites.php:1193
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/functions/prerequisites.php:1196
+msgid "Required"
+msgstr ""
+
+#: lib/functions/prerequisites.php:1196
+msgid "Recommended"
+msgstr ""
+
+#: lib/functions/prerequisites.php:1199
+msgid "Not Installed"
+msgstr ""
+
+#: lib/functions/prerequisites.php:1201
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/functions/prerequisites.php:1306 lib/functions/prerequisites.php:1414
+msgid "Install"
+msgstr ""
+
+#: lib/functions/prerequisites.php:1328 lib/functions/prerequisites.php:1415
+msgid "Activate"
+msgstr ""
+
+#: lib/functions/prerequisites.php:1377
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: lib/functions/prerequisites.php:1393
+msgid "Plugin"
+msgstr ""
+
+#: lib/functions/prerequisites.php:1394
+msgid "Source"
+msgstr ""
+
+#: lib/functions/prerequisites.php:1395
+msgid "Type"
+msgstr ""
+
+#: lib/functions/prerequisites.php:1396
+msgid "Status"
+msgstr ""
+
+#: lib/functions/prerequisites.php:1942
+msgid "Install package not available."
+msgstr ""
+
+#: lib/functions/prerequisites.php:1943
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>"
+msgstr ""
+
+#: lib/functions/prerequisites.php:1944
+msgid "Unpacking the package"
+msgstr ""
+
+#: lib/functions/prerequisites.php:1945
+msgid "Installing the plugin"
+msgstr ""
+
+#: lib/functions/prerequisites.php:1946
+msgid "Plugin install failed."
+msgstr ""
+
+#: lib/functions/prerequisites.php:1947
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: lib/functions/prerequisites.php:1958
+msgid "Plugin activation failed."
+msgstr ""
+
+#: lib/functions/prerequisites.php:2072
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: lib/functions/prerequisites.php:2073
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: lib/functions/prerequisites.php:2073 lib/functions/prerequisites.php:2082
+msgid "Show Details"
+msgstr ""
+
+#: lib/functions/prerequisites.php:2073 lib/functions/prerequisites.php:2082
+msgid "Hide Details"
+msgstr ""
+
+#: lib/functions/prerequisites.php:2074
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: lib/functions/prerequisites.php:2075
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/functions/prerequisites.php:2079
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: lib/functions/prerequisites.php:2080
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: lib/functions/prerequisites.php:2081
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/functions/prerequisites.php:2082
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: lib/functions/prerequisites.php:2083
+msgid "All installations have been completed."
+msgstr ""
+
+#: lib/functions/prerequisites.php:2084
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/admin/theme-options.php:8
+msgid "Add Custom Logo"
+msgstr ""
+
+#: lib/admin/theme-options.php:9
+msgid ""
+"Upload image to your media library and add the image path here. Default: "
+"402x53 pixels."
+msgstr ""
+
+#: lib/admin/theme-options.php:17
+msgid "Logo ALT Description"
+msgstr ""
+
+#: lib/admin/theme-options.php:19
+msgid "Add your ALT tag description with seo keywords for your logo."
+msgstr ""
+
+#: lib/admin/theme-options.php:27
+msgid "Enable the Showcase 1 Group"
+msgstr ""
+
+#: lib/admin/theme-options.php:28
+msgid "Select enable or disable the Showcase group on the front page."
+msgstr ""
+
+#: lib/admin/theme-options.php:34
+msgid "Enable the WordPress Header Feature"
+msgstr ""
+
+#: lib/admin/theme-options.php:35
+msgid "Select enable or disable the WordPress header image feature."
+msgstr ""
+
+#: lib/admin/theme-options.php:42
+msgid "Showcase Full Width Background Colour"
+msgstr ""
+
+#: lib/admin/theme-options.php:44
+msgid "Using hexadecimal colours like the default: #000000 which is black."
+msgstr ""
+
+#: lib/admin/theme-options.php:50
+msgid "Left Side Showcase Widget Background Colour"
+msgstr ""
+
+#: lib/admin/theme-options.php:52
+msgid "Using hexadecimal colours like the default: #F5F5F5 which is white."
+msgstr ""
+
+#: lib/admin/theme-options.php:58 lib/admin/theme-options.php:66
+#: lib/admin/theme-options.php:74
+msgid "Showcase Widget One Background Colour"
+msgstr ""
+
+#: lib/admin/theme-options.php:60
+msgid "Using hexadecimal colours like the default: #DBB27A which is orange."
+msgstr ""
+
+#: lib/admin/theme-options.php:68
+msgid "Using hexadecimal colours like the default: #E0C9A9 which is beige."
+msgstr ""
+
+#: lib/admin/theme-options.php:76
+msgid "Using hexadecimal colours like the default: #E8DCCC which is tan."
+msgstr ""
+
+#: lib/admin/theme-options.php:82
+msgid "Showcase Height"
+msgstr ""
+
+#: lib/admin/theme-options.php:84
+msgid ""
+"Set your showcase height in pixels for the image and widgets: default 315px"
+msgstr ""
+
+#: lib/admin/theme-options.php:90
+msgid "Page Link Colours"
+msgstr ""
+
+#: lib/admin/theme-options.php:97
+msgid "Enable Breadcrumbs"
+msgstr ""
+
+#: lib/admin/theme-options.php:98
+msgid "Select enable or disable for breadcrumb navigation."
+msgstr ""
+
+#: lib/admin/theme-options.php:105
+msgid "Breadcrumbs Background Colour"
+msgstr ""
+
+#: lib/admin/theme-options.php:107
+msgid "Using hexadecimal colours like the default: #585D61 which is grey."
+msgstr ""
+
+#: lib/admin/theme-options.php:113
+msgid "Copyright"
+msgstr ""
+
+#: lib/admin/theme-options.php:115
+msgid "Add your own copyright notice here without html."
+msgstr ""
+
+#: lib/admin/theme-options.php:121
+msgid "Google Analytics Code"
+msgstr ""
+
+#: lib/admin/theme-options.php:123
+msgid "Add your Google Analytics code here."
+msgstr ""
+
+#: lib/admin/theme-options.php:183
+msgid "Theme Settings"
+msgstr ""
+
+#: lib/admin/theme-options.php:192
+msgid "Setting Saved"
+msgstr ""
+
+#: lib/admin/theme-options.php:197
+msgid "Logo Settings"
+msgstr ""
+
+#: lib/admin/theme-options.php:205
+msgid ""
+"This section lets you use either a text based title using the default "
+"WordPress blog title and blog description, or you can choose an image logo."
+msgstr ""
+
+#: lib/admin/theme-options.php:252
+msgid "Showcase Settings"
+msgstr ""
+
+#: lib/admin/theme-options.php:260
+msgid ""
+"This section lets you use the front page showcase group of widgets along "
+"with the WordPress built-in Header feature. Keep note that you may need to "
+"do some html code for widgets on the right side because I kept this open for "
+"anything you want to add in this group, but you do not have to use this "
+"option, you can add a slideshow if you want or nothing at all. You will also "
+"find some Colour settings below which needs a hex value...at the moment, I "
+"do not have a colour function to let you play with various colours but you "
+"can use the built-in colour select tool in WordPress by going to "
+"<strong>Appearance >> Background</strong> and use the colour selector there "
+"(just don't click Save there, instead, just copy the value)."
+msgstr ""
+
+#: lib/admin/theme-options.php:405
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#: lib/admin/theme-options.php:413
+msgid ""
+"This section lets you set a variety of settings for things like your "
+"copyright notice - best to not add html here - Google analytics, and more. "
+"You will also find some Colour settings below which needs a hex value...at "
+"the moment, I do not have a colour function to let you play with various "
+"colours but you can use the built-in colour select tool in WordPress by "
+"going to <strong>Appearance >> Background</strong> and use the colour "
+"selector there (just don't click Save there, instead, just copy the value)."
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:3 lib/includes/shortcodes-demo2.php:3
+msgid "Theme Settings - Short Codes"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:11 lib/includes/shortcodes-demo2.php:11
+msgid "Miscellaneous Shortcodes"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:13 lib/includes/shortcodes-demo2.php:13
+msgid ""
+"To take advantage of shortcodes, you switch your WP editor to the html "
+"source mode, copy and paste any of the shortcodes you see below, change back "
+"to the wysiwyg mode and then replace the sample content with your own (where "
+"necessary). Make sure you paste the code in the source mode otherwise it "
+"won't work as the editor will change your characters."
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:15 lib/includes/shortcodes-demo2.php:15
+msgid "Shortcode: Read More Link"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:16 lib/includes/shortcodes-demo2.php:16
+msgid "Replace the # with your own link:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:21
+msgid "Shortcode: Full Width Page Shadow Divider"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:22
+msgid "This separates elements in your page:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:27
+msgid "Shortcode: Dropcap"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:28
+msgid "This adds a larger first letter of your first paragraph:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:33
+msgid "Shortcode: Contact Form"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:34
+msgid "You can put this form anywhere:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:44 lib/includes/shortcodes-demo2.php:27
+msgid "List Style Shortcodes"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:47 lib/includes/shortcodes-demo2.php:30
+msgid "Shortcode: List Style 1 (Unordered list)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:48 lib/includes/shortcodes-demo.php:60
+#: lib/includes/shortcodes-demo.php:73 lib/includes/shortcodes-demo2.php:31
+#: lib/includes/shortcodes-demo2.php:43 lib/includes/shortcodes-demo2.php:56
+msgid "Add your own list to each tag line:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:59 lib/includes/shortcodes-demo2.php:42
+msgid "Shortcode: List Style 2  (Unordered list)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:72 lib/includes/shortcodes-demo2.php:55
+msgid "Shortcode: List Style 3  (Unordered list)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:85 lib/includes/shortcodes-demo2.php:68
+msgid "Shortcode: List Style 4  (Ordered list)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:86
+msgid ""
+"This gives you a &quot;Roman Numeral&quot; list style. Add your own list to "
+"each tag line:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:98 lib/includes/shortcodes-demo2.php:81
+msgid "Shortcode: List Style 5  (Unordered list)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:99
+msgid ""
+"This gives you a &quot;Alphabetical&quot; list style. Add your own list to "
+"each tag line:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:111
+msgid "Shortcode: List Style 6  (Unordered list)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:112
+msgid ""
+"This gives you a &quot;double digit numbered list between 1 - 9&quot; which "
+"looks like this: 03 list style. Add your own list to each tag line:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:124 lib/includes/shortcodes-demo2.php:107
+msgid "Shortcode: List Style 7  (Arrow list)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:125
+msgid ""
+"This gives you an &quot;arrow&quot; list style. Add your own list to each "
+"tag line:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:142 lib/includes/shortcodes-demo2.php:125
+msgid "Columns for Pages or Posts"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:146 lib/includes/shortcodes-demo2.php:129
+msgid "Shortcode: Column Set 1"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:147 lib/includes/shortcodes-demo2.php:130
+msgid "The Column Set 1 gives you one full width 960 pixel wide column:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:156 lib/includes/shortcodes-demo2.php:141
+msgid "Shortcode: Column Set 2"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:157 lib/includes/shortcodes-demo2.php:142
+msgid ""
+"The Column Set 2 gives you two equal width 460 pixel wide columns with a 40 "
+"pixel space between each column:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:171 lib/includes/shortcodes-demo2.php:156
+msgid "Shortcode: Column Set 3"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:172 lib/includes/shortcodes-demo2.php:157
+msgid ""
+"The Column Set 3 gives you three equal width 290 pixel wide columns with a "
+"45 pixel space between each column:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:192
+msgid "Shortcode: Column Set 4"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:193
+msgid ""
+"The Column Set 4 gives you four equal width 210 pixel wide columns with a 40 "
+"pixel space between each column:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:215 lib/includes/shortcodes-demo2.php:214
+msgid "Shortcode: Column Set 5"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:216 lib/includes/shortcodes-demo2.php:215
+msgid ""
+"The Column Set 5 gives you a left column at 210 pixel wide plus a right "
+"column at 710 pixels with a 40 pixel space between each column:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:228 lib/includes/shortcodes-demo2.php:231
+msgid "Shortcode: Column Set 6"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:229 lib/includes/shortcodes-demo2.php:232
+msgid ""
+"The Column Set 5 gives you a left column at 710 pixel wide plus a right "
+"column at 210 pixels with a 40 pixel space between each column:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:241 lib/includes/shortcodes-demo2.php:248
+msgid "Shortcode: Column Set 7"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:242 lib/includes/shortcodes-demo2.php:249
+msgid ""
+"The Column Set 7 gives you a left column at 210 pixel wide plus a middle "
+"column at 460 pixels plus a right column at 210 pixels with a 40 pixel space "
+"between each column:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:259 lib/includes/shortcodes-demo2.php:272
+msgid "Shortcode: Column Set 8"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:260 lib/includes/shortcodes-demo2.php:273
+msgid ""
+"The Column Set 8 gives you a left column at 460 pixel wide plus two right "
+"columns at 210 pixels each with a 40 pixel space between each column:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:277 lib/includes/shortcodes-demo2.php:296
+msgid "Shortcode: Column Set 9"
+msgstr ""
+
+#: lib/includes/shortcodes-demo.php:278 lib/includes/shortcodes-demo2.php:297
+msgid ""
+"The Column Set 9 gives you two left columns at 210 pixel wide plus a right "
+"column at 460 pixels  with a 40 pixel space between each column:"
+msgstr ""
+
+#: lib/includes/submit.php:10
+msgid "You forgot to enter your name."
+msgstr ""
+
+#: lib/includes/submit.php:18
+msgid "You forgot to enter your email address."
+msgstr ""
+
+#: lib/includes/submit.php:21
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: lib/includes/submit.php:29
+msgid "You forgot to enter your comments."
+msgstr ""
+
+#: lib/includes/submit.php:43
+msgid "Contact Form Submission from "
+msgstr ""
+
+#: lib/includes/submit.php:51
+msgid "You emailed Your Name"
+msgstr ""
+
+#: lib/includes/submit.php:52
+msgid "From: Your Name <noreply@somedomain.com>"
+msgstr ""
+
+#: lib/includes/bottomwidgets.php:17
+msgid "Built For WordPress 4"
+msgstr ""
+
+#: lib/includes/bottomwidgets.php:18
+msgid ""
+"The Corporate 3 is based on the older and original Corporate theme but has "
+"been completely redesigned and redeveloped for the new WordPress version "
+"4.0+ and begins a new phase for creating more professional themes."
+msgstr ""
+
+#: lib/includes/bottomwidgets.php:21
+msgid "Dynamic Width Widgets"
+msgstr ""
+
+#: lib/includes/bottomwidgets.php:22
+msgid ""
+"The Corporate 3 now has dynamic widgets that automatically resize based on "
+"how many you publish side-by-side. The widget area you see here has 4 "
+"widgets published and have automatically resized with equal spacing."
+msgstr ""
+
+#: lib/includes/bottomwidgets.php:25
+msgid "Theme Style Settings"
+msgstr ""
+
+#: lib/includes/bottomwidgets.php:26
+msgid ""
+"Style your new website or blog with the built-in control panel which offers "
+"several settings to manage how your site will look, including colours, logo, "
+"type styles, showcase settings, Google, and other standard features people "
+"use."
+msgstr ""
+
+#: lib/includes/bottomwidgets.php:29
+msgid "WP Shortcodes"
+msgstr ""
+
+#: lib/includes/bottomwidgets.php:30
+msgid ""
+"After looking at the theme options, I am thinking that we may have to add a "
+"few options to make a paid version because there is not much that can be "
+"removed. What do you think? Here were some ideas I had.<br/> - Remove footer "
+"attribution (explained above)<br/>- Responsive <br/>- Color Picker on theme-"
+"options page"
+msgstr ""
+
+#: lib/includes/showcase1.php:24
+msgid "Professional Website"
+msgstr ""
+
+#: lib/includes/showcase1.php:24
+msgid ""
+"A perfect theme for the success of your online business and positive "
+"customer experiences..."
+msgstr ""
+
+#: lib/includes/showcase1.php:26
+msgid "Professional Blogging"
+msgstr ""
+
+#: lib/includes/showcase1.php:26
+msgid ""
+"Great for professional power bloggers from individuals to corporate "
+"businesses..."
+msgstr ""
+
+#: lib/includes/showcase1.php:28
+msgid "Professional Style"
+msgstr ""
+
+#: lib/includes/showcase1.php:28
+msgid ""
+"For serious businesses wanting a professional and visually outstanding "
+"website..."
+msgstr ""
+
+#: lib/includes/shortcodes-demo2.php:69
+msgid ""
+"This gives you a \"Roman Numeral\" list style. Add your own list to each tag "
+"line:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo2.php:82
+msgid ""
+"This gives you a \"Alphabetical\" list style. Add your own list to each tag "
+"line:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo2.php:95
+msgid ""
+"This gives you a \"double digit numbered list between 1 - 9\" which looks "
+"like this: 03 list style. Add your own list to each tag line:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo2.php:108
+msgid ""
+"This gives you an \"arrow\" list style. Add your own list to each tag line:"
+msgstr ""
+
+#: lib/includes/shortcodes-demo2.php:145 lib/includes/shortcodes-demo2.php:150
+msgid "Column Set 2 (460px)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo2.php:160 lib/includes/shortcodes-demo2.php:167
+#: lib/includes/shortcodes-demo2.php:174
+msgid "Column Set 3 (290px)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo2.php:186 lib/includes/shortcodes-demo2.php:193
+#: lib/includes/shortcodes-demo2.php:200 lib/includes/shortcodes-demo2.php:207
+msgid "Column Set 4 (210px)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo2.php:217
+msgid "Column Set 5 (210px)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo2.php:224
+msgid "Column Set 5 (710px)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo2.php:234
+msgid "Column Set 6 (710px)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo2.php:241
+msgid "Column Set 6 (210px)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo2.php:251 lib/includes/shortcodes-demo2.php:265
+msgid "Column Set 7 (210px)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo2.php:258
+msgid "Column Set 7 (460px)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo2.php:275
+msgid "Column Set 8 (460px)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo2.php:282 lib/includes/shortcodes-demo2.php:289
+msgid "Column Set 8 (210px)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo2.php:299 lib/includes/shortcodes-demo2.php:306
+msgid "Column Set 9 (210px)"
+msgstr ""
+
+#: lib/includes/shortcodes-demo2.php:313
+msgid "Column Set 9 (460px)"
+msgstr ""
+
+#: lib/includes/wp-pagenavi.php:184
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: lib/includes/wp-pagenavi.php:187
+msgid "&laquo; First"
+msgstr ""
+
+#: lib/includes/wp-pagenavi.php:188
+msgid "Last &raquo;"
+msgstr ""
+
+#: lib/includes/wp-pagenavi.php:189
+msgid "&raquo;"
+msgstr ""
+
+#: lib/includes/wp-pagenavi.php:190
+msgid "&laquo;"
+msgstr ""
+
+#: lib/includes/wp-pagenavi.php:191 lib/includes/wp-pagenavi.php:192
+msgid "..."
+msgstr ""
